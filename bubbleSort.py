@@ -1,3 +1,4 @@
+# Algoritomo Bubble Sort em Python
 def ordena(lista):
     tamanho = len(lista)
     
@@ -10,7 +11,7 @@ def ordena(lista):
     return lista
 
 
-lista = [3,4,0,1]
+lista = [100,10,3,4,0,1]
 print(ordena(lista))
 
 
